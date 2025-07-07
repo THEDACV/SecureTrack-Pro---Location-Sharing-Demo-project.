@@ -37,5 +37,8 @@
 | **OpenStreetMap (Nominatim)** | Reverse geocoding API     |
 
 ---
-
+👨‍💻 Author
+Chaithanya Vishwamitra D A
+Full Stack Developer | Python Enthusiast
+• 🐙 https://github.com/THEDACV
 
